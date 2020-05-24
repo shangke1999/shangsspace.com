@@ -1,0 +1,21 @@
+body {
+  background-color: #A8DADC;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Alegreya", serif;
+  font-weight: 900;
+  font-size: 100px;
+  font-style: italic;
+  color: #E63946;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Alegreya", serif;
+  font-weight: 600;
+  font-size: 50px;
+  font-style: italic;
+  color: #1D3557;
+}

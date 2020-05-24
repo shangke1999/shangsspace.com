@@ -1,0 +1,30 @@
+body {
+  background-color: #1D3557;
+}
+
+.label {
+  text-align: center;
+  font-family: "Alegreya", serif;
+  font-size: 100px;
+}
+
+a {
+  color: #F1FAEE;
+}
+a:visited {
+  color: #F1FAEE;
+}
+a:hover, a:active, a:focus {
+  color:#A8DADC;
+}
+
+#watermark {
+    width: 100px;
+    height: auto;
+    margin: 30px;
+    filter: invert(50%) sepia(100%) hue-rotate(-51deg) saturate(10);
+}
+
+.container {
+  text-align: center;
+}
